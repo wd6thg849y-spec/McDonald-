@@ -1,0 +1,6 @@
+{
+  "name": "Crave - Premium Fast Food",
+  "description": "An ultra-premium, high-converting fast food ordering experience featuring cinematic visuals, smooth animations, and psychological conversion triggers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
